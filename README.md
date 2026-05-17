@@ -1,4 +1,25 @@
-# KavyaKanaja
+## 📱 Screenshots
+
+**Home Screen**
+![Home](screenshots/home_screen.png)
+
+**Poem List**
+![Poems](screenshots/Poems_list.png)
+
+**Poets Corner List**
+![Detail](screenshots/poets_corner_list.png)
+
+**Poets Corner**
+![Detail](screenshots/poets_corner.png)
+
+**English Translation**
+![Home](screenshots/translation_to_english.png)
+
+**Word Popup**
+![Poems](screenshots/image4.png)
+
+**Audio Recitation**
+![Detail](screenshots/image3.png)
 
 A modern Kannada poetry app built with Jetpack Compose, designed to celebrate poems and poets with a clean, expressive UI.
 
