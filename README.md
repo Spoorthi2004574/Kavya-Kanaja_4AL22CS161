@@ -1,7 +1,7 @@
 ## 📱 Screenshots
 
-**Home Screen**
-![Home](screenshots/home_screen.png)
+<!-- **Home Screen**
+![Home](screenshots/home_screen.png) -->
 
 **Poem List**
 ![Poems](screenshots/Poems_list.png)
