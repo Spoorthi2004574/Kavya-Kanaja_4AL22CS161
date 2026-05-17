@@ -1,0 +1,209 @@
+{
+  "poems": [
+    {
+      "id": "1",
+      "title": "ಮಕ್ಕಳ ಮಂಡಳಿ",
+      "poetId": "kuvempu",
+      "text": "ಮಕ್ಕಳ ಮಂದಿರದಲ್ಲಿರುವ ಮಂದಹಾಸದ ಮಕ್ಕಳೇ,\nನಿಮ್ಮ ಮನಸ್ಸಿನೊಳಗಿರುವ ಮೋಹಕ ಕಲ್ಪನೆಗಳನ್ನು\nಹೊರತಂದು ನಮ್ಮ ನಾಡಿಗೆ ಹೊಸ ಬೆಳಕನ್ನು ತನ್ನಿರಿ.",
+      "meaning": "ಈ ಪಂಕ್ತಿಗಳಲ್ಲಿ ಮಕ್ಕಳ ಸೃಜನಶೀಲತೆ ಮತ್ತು ದೇಶದ ಭವಿಷ್ಯದ ಬೆಳಕನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುವ ಸಂದೇಶ ಇದೆ. ಮಕ್ಕಳು ತಮ್ಮ ಕಲ್ಪನೆಗಳಿಂದ ಸಮಾಜಕ್ಕೆ ಹೊಸ ದಿಕ್ಕು ತೋರುವರು ಎಂದು ಹೇಳಲಾಗಿದೆ.",
+      "meaningEnglish": "These lines encourage children’s creativity and imagination, suggesting that their ideas can bring new light and direction to society and the nation’s future.",
+      "audioFileName": "poem_01",
+      "difficultWords": [
+        {
+          "surface": "ಮಂದಹಾಸದ",
+          "meaning": "ಮಂದವಾದ ನಗು; ಮೃದುವಾದ ಹಾಸ್ಯ ಭಾವ."
+        },
+        {
+          "surface": "ಮೋಹಕ",
+          "meaning": "ಆಕರ್ಷಕ; ಮನಮೋಹಕ."
+        },
+        {
+          "surface": "ಕಲ್ಪನೆಗಳನ್ನು",
+          "meaning": "ಕಲ್ಪನೆಗಳನ್ನು — ಭಾವಿಸಿದ ಆಲೋಚನೆಗಳು, ಸೃಜನಶೀಲ ಚಿಂತನೆಗಳು."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "ಬೆಳಕಿನ ಬಗೆಗೆ",
+      "poetId": "bendre",
+      "text": "ಬೆಳಕು ಬರುವುದು ಬೇಕಾದರೆ\nಕತ್ತಲನ್ನು ತಟ್ಟಬೇಕಾಗುತ್ತದೆ;\nಬದುಕಿನಲ್ಲಿ ಹೊಸತನ್ನು ಕಾಣಬೇಕಾದರೆ\nಹಳೆಯ ಬಾಗಿಲನ್ನು ತೆರೆಯಬೇಕಾಗುತ್ತದೆ.",
+      "meaning": "ಹೊಸ ಬೆಳಕು ಮತ್ತು ಬದಲಾವಣೆ ಬಯಸಿದಾಗ ಪರಿಶ್ರಮ ಮತ್ತು ಧೈರ್ಯ ಬೇಕು ಎಂದು ಈ ಸಾಲುಗಳು ಹೇಳುತ್ತವೆ. ಅರ್ಥವಂತ ಬದುಕಿಗೆ ಹಳತಿನಿಂದ ಹೊಸತಿಗೆ ತೆರೆಯುವ ಮನೋಭಾವ ಮುಖ್ಯ.",
+      "meaningEnglish": "To reach new light and change, we must face darkness and difficulty; to find something new in life, we often have to open an old door—letting go of the past to embrace the new.",
+      "audioFileName": "poem_02",
+      "difficultWords": [
+        {
+          "surface": "ಕತ್ತಲನ್ನು",
+          "meaning": "ಇಲ್ಲಿ ಅಡಚಣೆ, ಅಜ್ಞಾನ ಅಥವಾ ಕಠಿಣ ಪರಿಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುವ ಪ್ರತೀಕಾತ್ಮಕ ಬಳಕೆ."
+        },
+        {
+          "surface": "ಬದುಕಿನಲ್ಲಿ",
+          "meaning": "ನಿತ್ಯದ ಜೀವನದಲ್ಲಿ; ದೈನಂದಿನ ಅನುಭವಗಳಲ್ಲಿ."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "ಮಳೆಯ ಗೀತೆ",
+      "poetId": "akkitham",
+      "text": "ಮಳೆ ತೊಟ್ಟಿಲಲ್ಲಿ ತೊಟಿಲಿನ ನೀರು,\nಮರಗಳ ತೊಟ್ಟಿಗೆ ಬೀಳುವ ಬಿಸಿಲು ಮತ್ತು ತಣುಗು;\nನನ್ನ ಬರಹಕ್ಕೆ ಬರುವ ಶಬ್ದಗಳೂ ಇಂತಹವೇ,\nಸಾಲುಸಾಲಾಗಿ ಬೀಳುವ ಆಲೋಚನೆಯ ಹನಿಗಳು.",
+      "meaning": "ಮಳೆಯೊಂದಿಗೆ ಪ್ರಕೃತಿಯ ಸಂವೇದನೆಯನ್ನು ಹೋಲಿಸಿ, ಕವಿಯ ಬರಹಕ್ಕೆ ಬರುವ ಆಲೋಚನೆಗಳನ್ನು ಮಳೆಯ ಹನಿಗಳಂತೆ ಪ್ರವಹಿಸುವುದನ್ನು ಚಿತ್ರಿಸಿದೆ.",
+      "audioFileName": "poem_03",
+      "difficultWords": [
+        {
+          "surface": "ತೊಟ್ಟಿಲಲ್ಲಿ",
+          "meaning": "ಚಿಕ್ಕ ತೊಟ್ಟಿ; ಇಲ್ಲಿ ಮಳೆ ಬೀಳುವ ಸಣ್ಣ ಜಾಗ ಅಥವಾ ಪ್ರಕೃತಿಯ ಚಿಕ್ಕ ವಲಯ ಎಂದು ಭಾವಿಸಬಹುದು."
+        },
+        {
+          "surface": "ಬರಹಕ್ಕೆ",
+          "meaning": "ಲೇಖನಕ್ಕೆ; ಬರೆಯುವ ಕೃತಿಗೆ."
+        },
+        {
+          "surface": "ಆಲೋಚನೆಯ",
+          "meaning": "ಚಿಂತನೆಯ; ಮನಸ್ಸಿನಲ್ಲಿ ಹರಿಯುವ ಭಾವನೆಗಳು."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "ಮಾರ್ಗ ದರ್ಶನ",
+      "poetId": "kuvempu",
+      "text": "ನಡಿಗೆಯ ನಡುವೆ ನಿಲ್ಲುವಾಗ\nನೆಲ ನೋಡಬೇಕು ಮತ್ತು ಆಕಾಶ ನೋಡಬೇಕು;\nಹಾದಿಯಲ್ಲಿ ದಿಕ್ಕು ತಪ್ಪಿದಾಗ\nಮಾತುಗಳನ್ನು ಹೊಸದಾಗಿಸಿಕೊಳ್ಳಬೇಕು.",
+      "meaning": "ಜೀವನದ ನಡುವೆ ವಿರಾಮ ತೆಗೆದುಕೊಂಡು ವಾಸ್ತವ ಮತ್ತು ಆದರ್ಶ ಎರಡನ್ನೂ ನೋಡಬೇಕು ಎಂದೂ, ದಿಕ್ಕು ತಪ್ಪಿದಾಗ ಆಲೋಚನೆ ಮತ್ತು ಮಾತುಗಳನ್ನು ತಿದ್ದಿಕೊಳ್ಳಬೇಕು ಎಂದೂ ಹೇಳುತ್ತದೆ.",
+      "audioFileName": "poem_04",
+      "difficultWords": [
+        {
+          "surface": "ನಡಿಗೆಯ",
+          "meaning": "ಹಾದಿಯ; ಜೀವನದ ಪ್ರಯಾಣದ."
+        },
+        {
+          "surface": "ದಿಕ್ಕು",
+          "meaning": "ದಾರಿ; ಗುರಿಯ ಕಡೆಗಿನ ನಿರ್ದೇಶನ."
+        },
+        {
+          "surface": "ಹೊಸದಾಗಿಸಿಕೊಳ್ಳಬೇಕು",
+          "meaning": "ಹಳೆಯ ಮಾರ್ಗ ಬದಲಿಸಿ ಹೊಸ ತೀರ್ಮಾನಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "ಮಾನವ ಕುಲಂ ತಾನೊಂದೇ ವಲಂ",
+      "poetId": "pampa",
+      "text": "ಮಾನವ ಕುಲಂ ತಾನೊಂದೇ ವಲಂ.",
+      "meaning": "ಜಗತ್ತಿನ ಎಲ್ಲಾ ಮನುಷ್ಯರು ಒಂದೇ ಜಾತಿ ಅಥವಾ ಒಂದೇ ಕುಲಕ್ಕೆ ಸೇರಿದವರು ಎಂಬ ಮಹಾನ್ ಸಂದೇಶವನ್ನು ಈ ಸಾಲುಗಳು ಸಾರುತ್ತವೆ.",
+      "meaningEnglish": "This famous line by Pampa declares the universal truth that all of humanity belongs to a single race or clan.",
+      "audioFileName": "poem_05",
+      "difficultWords": [
+        {
+          "surface": "ಮಾನವ ಕುಲಂ",
+          "meaning": "ಮನುಷ್ಯ ಜನಾಂಗ."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "ಎದೆ ತುಂಬಿ ಹಾಡಿದೆನು",
+      "poetId": "gss",
+      "text": "ಎದೆ ತುಂಬಿ ಹಾಡಿದೆನು ಅಂದು ನಾನು,\nಮನವಿಟ್ಟು ಕೇಳಿದಿರಿ ನೀವು;\nನನ್ನ ಹಾಡಿನ ಕೋಗಿಲೆಗೆ ರೆಕ್ಕೆ ಬಂದಿತು ಅಂದು,\nನಿಮ್ಮ ಕೈಗಡಿಯಾರ ಹಕ್ಕಿಯಾಯಿತು.",
+      "meaning": "ಕವಿ ಮತ್ತು ಕೇಳುಗರ ನಡುವಿನ ಅವಿನಾಭಾವ ಸಂಬಂಧವನ್ನು ಇಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ. ಕವಿಯ ಹಾಡಿಗೆ ಕೇಳುಗರ ಪ್ರೋತ್ಸಾಹವೇ ಜೀವಾಳ.",
+      "meaningEnglish": "This poem describes the emotional bond between the poet and the audience, where the listeners' attention gives wings to the poet's song.",
+      "audioFileName": "poem_06",
+      "difficultWords": [
+        {
+          "surface": "ಎದೆ ತುಂಬಿ",
+          "meaning": "ಪೂರ್ಣ ಮನಸ್ಸಿನಿಂದ; ಭಾವಪರವಶವಾಗಿ."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "ಹುಲ್ಲು ಆಗು ಬೆಟ್ಟದಡಿ",
+      "poetId": "dvg",
+      "text": "ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ, ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು,\nಕಲ್ಲಾಗು ಕಷ್ಟಗಳ ಮಳೆಯ ವಿಧಿ ಸುರಿಯೆ;\nಬೆಲ್ಲವಾಗು ದೀನಬಲಹೀನರಿಗೆ, ಎಲ್ಲರೊಳಗೊಂದಾಗು ಮಂಕುತಿಮ್ಮ.",
+      "meaning": "ಜೀವನದಲ್ಲಿ ವಿನಯವಂತರಾಗಿ, ಕಷ್ಟಗಳನ್ನು ಸಹಿಸಿಕೊಳ್ಳುವ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರಬೇಕು ಮತ್ತು ಎಲ್ಲರೊಂದಿಗೆ ಬೆರೆತು ಬದುಕಬೇಕು ಎಂದು ಈ ಸಾಲುಗಳು ಬೋಧಿಸುತ್ತವೆ.",
+      "meaningEnglish": "Be humble like the grass at the foot of a hill, be fragrant like jasmine at home. Be firm as a rock when fate rains difficulties. Be sweet to the weak and needy, and blend with everyone, O Mankuthimma.",
+      "audioFileName": "poem_07",
+      "difficultWords": [
+        {
+          "surface": "ಮಂಕುತಿಮ್ಮ",
+          "meaning": "ಡಿ.ವಿ.ಜಿ ಅವರ ಕಾವ್ಯನಾಮ ಮತ್ತು ಕೃತಿಯ ಕೇಂದ್ರ ವ್ಯಕ್ತಿತ್ವ; ಸಾಮಾನ್ಯ ಮನುಷ್ಯನ ಸಂಕೇತ."
+        },
+        {
+          "surface": "ದೀನಬಲಹೀನರಿಗೆ",
+          "meaning": "ಬಡವರಿಗೆ ಮತ್ತು ಅಸಹಾಯಕರಿಗೆ."
+        }
+      ]
+    }
+  ],
+  "poets": [
+    {
+      "id": "kuvempu",
+      "name": "ಕುವೆಂಪು",
+      "bio": "ಕುವೆಂಪು (ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ) ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಹೆಸರು. ರಾಷ್ಟ್ರಕವಿ ಬಿರುದು ಪಡೆದ ಅವರು ಜಾನಪದ ಮತ್ತು ವೈಚಾರಿಕತೆಯನ್ನು ಸಮತೋಲನಗೊಳಿಸಿದ ಕವಿಗಳು. ಶಿಕ್ಷಣ, ಸಮಾನತೆ ಮತ್ತು ಮಾನವೀಯ ಮೌಲ್ಯಗಳನ್ನು ತಮ್ಮ ಕಾವ್ಯದಲ್ಲಿ ಬೆಳೆಸಿದರು.",
+      "bioEnglish": "Kuvempu (Kuppali Venkatappa Puttappa) is a leading figure in modern Kannada literature. Honoured as the ‘Rashtrakavi’, he balanced folk roots with progressive thought, and championed education, equality, and humanistic values through his works.",
+      "imageDrawableName": "poet_kuvempu",
+      "famousWorks": [
+        "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "ಕಾನೂರು ಹೆಗ್ಗದಿತಿ",
+        "ಮಕ್ಕಳ ಪದ್ಯಗಳು"
+      ]
+    },
+    {
+      "id": "bendre",
+      "name": "ಡಾ. ದ. ರಾ. ಬೇಂದ್ರೆ",
+      "bio": "ಡಾ. ದೇವನಹಳ್ಳಿ ರಾಮಾನುಜಾಚಾರ್ಯ ಬೇಂದ್ರೆ ಅಡಿಗರು ಆಧುನಿಕ ಕನ್ನಡ ಕವಿತೆಯ ಶಿಲ್ಪಿ. ಪ್ರಕೃತಿ, ನಾದ ಮತ್ತು ಪ್ರತೀಕಗಳಿಂದ ಕೂಡಿದ ಅವರ ಕಾವ್ಯ ಭಾವಪೂರ್ಣವಾಗಿದೆ. ಜೀವನದ ಸೂಕ್ಷ್ಮ ಅನುಭವಗಳನ್ನು ಕವಿತೆಯಾಗಿಸುವ ಅವರ ಶೈಲಿ ವಿಸಮ್ಮಯಕಾರಿ.",
+      "imageDrawableName": "poet_bendre",
+      "famousWorks": [
+        "ಗರದಿದ್ದ ಬಾಲೆ",
+        "ಸಕ್ಕೀಗಾರಿಯಲ್ಲಿ",
+        "ನಾಕುತಂಡಿ"
+      ]
+    },
+    {
+      "id": "akkitham",
+      "name": "ಅಕ್ಕಿತಂ ಅಚ್ಯುತಾನಂದ ನಾಯಕ್",
+      "bio": "ಅಕ್ಕಿತಂ ಅಚ್ಯುತಾನಂದ ನಾಯಕ್ ನಯನ ರಮ್ಯ ಮತ್ತು ಭಾಷೆಯ ಶುದ್ಧತೆಯಿಂದ ಗುರುತಿಸಿಕೊಂಡ ಕವಿ. ದೈನಂದಿನ ಜೀವನದ ಸಣ್ಣ ಸಣ್ಣ ಕ್ಷಣಗಳನ್ನು ಆಳವಾದ ಕವಿತೆಯಾಗಿ ಮಾರ್ಪಡಿಸುವ ಶೈಲಿ ಅವರದು.",
+      "imageDrawableName": "poet_akki",
+      "famousWorks": [
+        "ಅಕ್ಕರ ಬಾಲೆ",
+        "ನೀಳ ನಿರೆಯ ಕವನಗಳು"
+      ]
+    },
+    {
+      "id": "pampa",
+      "name": "ಆದಿಕವಿ ಪಂಪ",
+      "bio": "ಪಂಪನು ಹತ್ತನೆಯ ಶತಮಾನದ ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ. ಇವನನ್ನು 'ಆದಿಕವಿ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಜೈನ ಧರ್ಮದ ಪ್ರಭಾವ ಮತ್ತು ಕ್ಷಾತ್ರ ತೇಜಸ್ಸನ್ನು ತನ್ನ ಕಾವ್ಯಗಳಲ್ಲಿ ಅದ್ಭುತವಾಗಿ ಚಿತ್ರಿಸಿದ್ದಾನೆ.",
+      "bioEnglish": "Pampa was a renowned 10th-century Kannada poet, honored as 'Adikavi'. He masterfully blended Jain philosophy with heroic sentiments in his epic works.",
+      "imageDrawableName": null,
+      "famousWorks": [
+        "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "ಆದಿಪುರಾಣ"
+      ]
+    },
+    {
+      "id": "gss",
+      "name": "ಜಿ. ಎಸ್. ಶಿವರುದ್ರಪ್ಪ",
+      "bio": "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪನವರು ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿ ಮತ್ತು ವಿಮರ್ಶಕರು. ರಾಷ್ಟ್ರಕವಿ ಬಿರುದನ್ನು ಪಡೆದ ಮೂರನೇ ಕವಿ ಇವರು. ಮಾನವೀಯತೆ ಮತ್ತು ವೈಚಾರಿಕತೆ ಇವರ ಕಾವ್ಯದ ಜೀವಾಳ.",
+      "bioEnglish": "G.S. Shivarudrappa was a major poet and critic in modern Kannada literature, and the third to be honored as 'Rashtrakavi'. His works are known for their humanistic and rationalist themes.",
+      "imageDrawableName": null,
+      "famousWorks": [
+        "ಸಾಮಗಾನ",
+        "ಚೆಲವು-ಒಲವು",
+        "ದೀಪದ ಹೆಜ್ಜೆ"
+      ]
+    },
+    {
+      "id": "dvg",
+      "name": "ಡಿ. ವಿ. ಗುಂಡಪ್ಪ",
+      "bio": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ (ಡಿವಿಜಿ) ಅವರು ಕನ್ನಡದ ಹೆಸರಾಂತ ಕವಿ ಮತ್ತು ದಾರ್ಶನಿಕರು. ಇವರ 'ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ' ಕೃತಿಯು ಕನ್ನಡದ ಭಗವದ್ಗೀತೆ ಎಂದೇ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "bioEnglish": "D.V. Gundappa (DVG) was a celebrated Kannada poet and philosopher. His work 'Mankuthimmana Kagga' is profoundly influential and often regarded as the 'Bhagavad Gita of Kannada'.",
+      "imageDrawableName": null,
+      "famousWorks": [
+        "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ",
+        "ಜೀವನ ಧರ್ಮಯೋಗ",
+        "ಸಾಹಿತ್ಯ ಶಕ್ತಿ"
+      ]
+    }
+  ]
+}
